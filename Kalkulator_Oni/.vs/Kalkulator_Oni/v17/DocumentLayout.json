@@ -7,8 +7,7 @@
       "RelativeMoniker": "D:0:0:{B7BACA09-86ED-4184-808F-535C669DA396}|Kalkulator_Oni\\Kalkulator_Oni.csproj|solutionrelative:kalkulator_oni\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7BACA09-86ED-4184-808F-535C669DA396}|Kalkulator_Oni\\Kalkulator_Oni.csproj|h:\\fos 21\\software\\git\\vsprojekt\\kalkulator_oni\\kalkulator_oni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B7BACA09-86ED-4184-808F-535C669DA396}|Kalkulator_Oni\\Kalkulator_Oni.csproj|solutionrelative:kalkulator_oni\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|H:\\FOS 21\\Software\\git\\vsProjekt\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\FOS 21\\Software\\git\\vsProjekt\\Kalkulator_Oni\\Kalkulator_Oni\\Program.cs",
-              "RelativeDocumentMoniker": "Kalkulator_Oni\\Program.cs",
-              "ToolTip": "H:\\FOS 21\\Software\\git\\vsProjekt\\Kalkulator_Oni\\Kalkulator_Oni\\Program.cs",
-              "RelativeToolTip": "Kalkulator_Oni\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T08:13:25.188Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "H:\\FOS 21\\Software\\git\\vsProjekt\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "H:\\FOS 21\\Software\\git\\vsProjekt\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAC8BAAAAAAAAAAAcwGoBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-01-28T08:49:48.795Z",
               "EditorCaption": ""
             },
             {
@@ -39,8 +38,8 @@
               "Title": "Form1.cs [Entwurf]",
               "DocumentMoniker": "H:\\FOS 21\\Software\\git\\vsProjekt\\Kalkulator_Oni\\Kalkulator_Oni\\Form1.cs",
               "RelativeDocumentMoniker": "Kalkulator_Oni\\Form1.cs",
-              "ToolTip": "H:\\FOS 21\\Software\\git\\vsProjekt\\Kalkulator_Oni\\Kalkulator_Oni\\Form1.cs [Entwurf]*",
-              "RelativeToolTip": "Kalkulator_Oni\\Form1.cs [Entwurf]*",
+              "ToolTip": "H:\\FOS 21\\Software\\git\\vsProjekt\\Kalkulator_Oni\\Kalkulator_Oni\\Form1.cs [Entwurf]",
+              "RelativeToolTip": "Kalkulator_Oni\\Form1.cs [Entwurf]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T07:36:49.543Z",
               "EditorCaption": " [Entwurf]"

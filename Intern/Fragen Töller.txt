@@ -1,8 +1,0 @@
--C# Pflicht?
--Anforderungen von Herrn Töller?
--Webseite oder Windows-Form Anwendung?
-
-Pflichtenheft:
-- die ersten zwei Seiten des Dokuments Pflichtenheft ERP_HHBK_AS2_1 220810.pdf
-Wie genau funktioniert die Tabellarischen Ansicht?
-z.B "Verantwortlich", "V-Modell-XT Version", Weitere Produktinformationen, Änderungsverzeichnis, Prüfverzeichnis

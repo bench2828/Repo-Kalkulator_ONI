@@ -1,7 +1,0 @@
-- https://onicalc.com/ als Vorlage#
--integriertes Wiki
-
--Platform: Webseite
-Ähnlich wie bei MikasBalatro
-https://mikaschoenmakers.github.io/MikasBalatro/
-https://github.com/MikaSchoenmakers/MikasBalatro/blob/main/index.html

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="15.1">
+  <zoom_level>9</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>774</x>
+      <y>225</y>
+      <w>252</w>
+      <h>162</h>
+    </coordinates>
+    <panel_attributes>Produzent
+
+--
+# name: string
+- anzahl: int
+
+--
++ setAnzahl(n: int): void
+        + getAnzahl(): int
+        + getVerbrauch(): IOEintrag[]
+        + getProduktion(): IOEintrag[]
+        + berechneBenotigteAnzahl: string)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>639</x>
+      <y>468</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Tier und Terrarien 
+--
+- kalorienBedarf: double
+--
++ Tier(name: string)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>900</x>
+      <y>468</y>
+      <w>189</w>
+      <h>72</h>
+    </coordinates>
+    <panel_attributes>Maschine
+--
+- stromVerbrauch: double
+--
++ Maschine(name: string)
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>423</x>
+      <y>468</y>
+      <w>189</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes>IOEintrag
+
+--
+- mengeProSekunde: double
+- einheit: string
+--
++ getMenge(): double
++ getRessource(): Ressource
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>567</x>
+      <y>675</y>
+      <w>189</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>Ressource
+--
+- name: string
+--
++ getName(): string
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>1116</x>
+      <y>468</y>
+      <w>261</w>
+      <h>81</h>
+    </coordinates>
+    <panel_attributes>Kalkulation
+--
+- produzentenListe: Produzent
+--
++ fuegeProduzentHinzu(p: Produzent): void
++ berechneGesamtBilanz(): void</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>783</x>
+      <y>378</y>
+      <w>99</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;100.0;90.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>927</x>
+      <y>378</y>
+      <w>81</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>70.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>990</x>
+      <y>378</y>
+      <w>279</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>290.0;100.0;10.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>522</x>
+      <y>378</y>
+      <w>297</w>
+      <h>108</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;100.0;310.0;10.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>540</x>
+      <y>576</y>
+      <w>126</w>
+      <h>117</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;120.0;110.0</additional_attributes>
+  </element>
+</diagram>
